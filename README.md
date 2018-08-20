@@ -17,8 +17,12 @@ Para hacer que funcinoes hay que cambiar las siguientes lineas:
 Por los valores correspondientes.
 * En CompartiMOSS.Xamarin.MobileAppService en appSettings.json camibar:
 
-  "ClientId": "Your application Id azure ad web api applications",
+   "ClientId": "Your application Id azure ad web api applications",
+   
     "ClientSecret": "Your secret key Id azure ad web api applications",
+    
     "TenantId": "Your Azure Tenant ID",
+    
     "AppIDURL": "Your AppIDRUI azure ad web api application",
+    
 Por los valores correspondientes.
