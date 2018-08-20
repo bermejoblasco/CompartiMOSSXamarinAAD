@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CompartiMOSS.Xamarin.MobileAppService</name>
+    </assembly>
+    <members>
+        <member name="M:CompartiMOSS.Xamarin.MobileAppService.Controllers.Token.TokenController.GetToken">
+            <summary>
+            Get Azure AD Token,use only works in test enviroment for swagger
+            </summary>
+            <returns>Bearer token </returns>
+        </member>
+    </members>
+</doc>

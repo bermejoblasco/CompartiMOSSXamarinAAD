@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27924.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompartiMOSS.Xamarin.Android", "CompartiMOSS.Xamarin\CompartiMOSS.Xamarin.Android\CompartiMOSS.Xamarin.Android.csproj", "{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompartiMOSS.Xamarin.MobileAppService", "CompartiMOSS.Xamarin\CompartiMOSS.Xamarin.MobileAppService\CompartiMOSS.Xamarin.MobileAppService.csproj", "{DCA49EDD-3A7C-4ACD-A4CE-269563DD2C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompartiMOSS.Xamarin", "CompartiMOSS.Xamarin\CompartiMOSS.Xamarin\CompartiMOSS.Xamarin.csproj", "{B2DCC894-EBF3-40B9-B5BD-43519251DA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DCA49EDD-3A7C-4ACD-A4CE-269563DD2C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA49EDD-3A7C-4ACD-A4CE-269563DD2C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA49EDD-3A7C-4ACD-A4CE-269563DD2C4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DCA49EDD-3A7C-4ACD-A4CE-269563DD2C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA49EDD-3A7C-4ACD-A4CE-269563DD2C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA49EDD-3A7C-4ACD-A4CE-269563DD2C4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B2DCC894-EBF3-40B9-B5BD-43519251DA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DCC894-EBF3-40B9-B5BD-43519251DA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DCC894-EBF3-40B9-B5BD-43519251DA72}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B2DCC894-EBF3-40B9-B5BD-43519251DA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DCC894-EBF3-40B9-B5BD-43519251DA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DCC894-EBF3-40B9-B5BD-43519251DA72}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C3CB97-8393-4151-848F-366BB4054966}
+	EndGlobalSection
+EndGlobal
