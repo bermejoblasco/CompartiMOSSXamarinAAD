@@ -1,5 +1,5 @@
 # CompartiMOSSXamarinAAD
-Código del articulo del número 37 de CompartiMOSS.
+Código del articulo del número 37 de CompartiMOSS http://www.compartimoss.com/revistas/numero-37/autenticando-xamarin-forms-con-azure-ad
 
 Para ejecutar el código debeis seguir el aritculo de CompartiMOSS del número 37 (añadir link)
 
